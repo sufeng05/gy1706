@@ -6,6 +6,8 @@ int add(int x , int y)
 }
 int main()
 {
-    //add(2,3);
+    int a = 2;
+    int b = 3;
+    int d = add(a,b);
     printf("hello");
 }
